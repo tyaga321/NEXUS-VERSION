@@ -1,4 +1,4 @@
-# NEXUS-VERSION
+# INSTALL NEXUS SESUAI VERSI
 ```bash
 rm -rf nexus-cli
 rm -rf .nexus
@@ -25,6 +25,7 @@ screen -S nexus
 ```bash
 cd nexus-cli/clients/cli
 ```
+PILIH VERSI SESUAI YANG DI INGINKAN
 ```bash
 git checkout tags/v0.8.14
 ```
