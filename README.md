@@ -37,6 +37,10 @@ sudo cp target/release/nexus-network /usr/local/bin/
 ```
 ```bash
 nexus-network start --node-id yourid
+
+#ben3
+nexus-network start --node-id 3442762
+
 ```
 
 ------
