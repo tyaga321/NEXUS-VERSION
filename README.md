@@ -25,8 +25,8 @@ screen -S nexus
 ```bash
 cd nexus-cli/clients/cli
 ```
-PILIH VERSI SESUAI YANG DI INGINKAN
 ```bash
+#Pilih versi sesuai yang dibutuhkan
 git checkout tags/v0.8.14
 ```
 ```bash
